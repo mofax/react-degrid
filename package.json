@@ -1,0 +1,25 @@
+{
+  "name": "react-degrid",
+  "version": "0.0.0",
+  "description": "A datagrid library for react applications",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Alloys Mila",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/node": "^18.8.5",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.55.0",
+    "typescript": "^4.8.4",
+    "vite": "^3.1.8"
+  }
+}
